@@ -1,0 +1,27 @@
+body{
+	margin:0;
+	padding:0;
+	background-repeat: no repeat;
+	color: white;
+	background-color: black;
+
+}
+.box{
+	width:1000px;
+	background: black;
+	text-align: center;
+	padding:100px;
+	margin: auto;
+	text-transform: uppercase;
+	color: pink;
+}
+li{
+	color: red;
+	font-family:'work sans',sans-serif;
+}
+h4{
+	font-size: 20px;
+}
+h5{
+	font-size: 20px;
+}
